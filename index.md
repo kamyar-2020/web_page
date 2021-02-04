@@ -6,8 +6,13 @@
 </p>
 
 <ul>
-    <li>Education</li>
+    <li> <a href = "#Edu">Life and Education</a></li>
     <li>Interests</li>
     <li>Goals</li>
 </ul>
-<div style = "background-color : #00C912; color : black"> Well actually i am studying in the field of Computer Engineering in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate so i actually don't have much to say in this case except that my konkoor rank was 491 of manteghe yek(i don't     know english meaning &#128522) and i studied in Ario mosalla nejad highschool in Mashhad.</div>
+
+### <span style = "color : #1BD22B">Life and Education</span>
+<p style = "background-color : #005708; color : white" id = "Edu">
+    i am 18 years old and i was born in Mashhad-Iran and actually now i am studying in the field of Computer Engineering in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate so i actually don't have much to say in this case except that my konkoor rank was 491 of manteghe yek(i don't     know english meaning &#128522) and i studied in Ario mosalla nejad highschool in Mashhad
+    i don't have much more to add to this field except that my english education is at the intermedate level &#128522.</p>
+
