@@ -1,6 +1,6 @@
 # i am KAMYAR MORADIAN
 
-    hey every one my name is<span style="color : blue"> kamyar moradian</span>, and this is web page about me and my goals and other things that i want to share with you<br>
+hey every one my name is<span style="color : blue"> kamyar moradian</span>, and this is web page about me and my goals and other things that i want to share with you<br>
     you can see everything in the list below
 
 <ul>
