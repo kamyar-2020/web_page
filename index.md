@@ -42,7 +42,7 @@ Sum up,the one can change you and makes you the real one is you because the one 
 
 now that i talked about my self and things related to me it's the time to see me &#128578
 
-![Me](./IMG-20201101-WA0017.jpg"Me")             
+<img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me">            
 
 and i just wanted to share some places that i want to visit someday.
 
@@ -50,4 +50,3 @@ and i just wanted to share some places that i want to visit someday.
 <img src = "./london.jpg" alt = "London" title = "London">
 ![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
-
