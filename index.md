@@ -3,9 +3,9 @@
 <p>hey every one my name is<span style="color : blue"> kamyar moradian</span>, and this is web page about me and my goals and other things that i want to share with you<br>
    you can see everything in the list below</p>
    
-+ [Life and Education]("#Edu")
-+ [Interests]("#Interest")
-+ Goals
++ [Life and Education](#Edu"Life and Edu section")
++ [Interests](#Interest"interests Section")
++ [Goals](#goals"goals Section")
 
 ### <span style = "color : #1BD22B">Life and Education</span>
 <p style = "background-color : #005708; color : white" id = "Edu">
@@ -20,3 +20,4 @@
     hanging out with my friends is my next hobby. actually miss the days i used to hang out with them for most of the time. now i don't regurally.<br>
     another one is watching movies. after the covid-19 pandemic and several lockdown it's been one of my main interests.
 </p>
+
