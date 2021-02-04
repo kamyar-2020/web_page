@@ -28,7 +28,7 @@
 
 ---
 
-### <span style = " color : #D2E704">Goals</span>
+### <span style = " color : #2A9BFF">Goals</span>
 
 <p style = "background-color : #97A900; color : white" id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
@@ -38,7 +38,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 <strong>Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
 
-### <span style = " color : #D2E704" id = "Images">Images</span>
+### <span style = " color : #2BFFB5" id = "Images">Images</span>
 
 _now that i talked about my self and things related to me it's the time to see me_ &#128578
 
