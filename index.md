@@ -3,9 +3,9 @@
 <p>hey every one my name is<span style="color : blue"> kamyar moradian</span>, and this is web page about me and my goals and other things that i want to share with you<br>
    you can see everything in the list below</p>
    
-+ [Life and Education](#Edu"Life and Edu section")
-+ [Interests](#Interest"interests Section")
-+ [Goals](#goals"goals Section")
++ [Life and Education](#Edu)
++ [Interests](#Interest)
++ [Goals](#goals)
 
 ### <span style = "color : #1BD22B">Life and Education</span>
 <p style = "background-color : #005708; color : white" id = "Edu">
