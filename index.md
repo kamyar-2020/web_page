@@ -30,7 +30,7 @@
 
 ### <span style = " color : #2A9BFF">Goals</span>
 
-<p style = "background-color : #0C0098; color : white" id = "Goals">
+<p style = "background-color : #00169F; color : white" id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b>don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
