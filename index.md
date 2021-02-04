@@ -2,12 +2,10 @@
 
 <p>hey every one my name is<span style="color : blue"> kamyar moradian</span>, and this is web page about me and my goals and other things that i want to share with you<br>
    you can see everything in the list below</p>
-
-<ul>
-    <li> <a href = "#Edu">Life and Education</a></li>
-    <li>Interests</li>
-    <li>Goals</li>
-</ul>
+   
++ [Life and Education]("#Edu")
++ [Interests]("#Interest")
++ Goals
 
 ### <span style = "color : #1BD22B">Life and Education</span>
 <p style = "background-color : #005708; color : white" id = "Edu">
