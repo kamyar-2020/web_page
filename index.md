@@ -51,22 +51,22 @@ and i just wanted to share some places that i want to visit someday.
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
                                                                      Paris
                                                                      
-                                                                     ---
+---
                                                                     
 <img src = "./london.jpg" alt = "London" title = "London">
                                                                      London
                                                                      
-                                                                     ----
+----
                                                                      
 ![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
                                                                      Tokyo
                                                                      
-                                                                     ----
+----
                                                                      
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
                                                                      Prague
                                                                      
-                                                                     ----
+----
                                                                      
                                                                      
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
