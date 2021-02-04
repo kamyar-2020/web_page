@@ -47,6 +47,6 @@ now that i talked about my self and things related to me it's the time to see me
 and i just wanted to share some places that i want to visit someday.
 
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
-![London](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"London")
-![Tokyo](https://cdn-image.departures.com/sites/default/files/1576002985/header-tokyo-japan-LUXETOKYO1219.jpg"Tokyo")
-![Praque](https://blog.radissonblu.com/wp-content/uploads/2014/01/Town-hall-and-streets-in-Prague.jpg"Praque")
+![London](https://imageproxy.themaven.net//https%3A%2F%2Fwww.history.com%2F.image%2FMTYyNDg1MjE3MTI1Mjc5Mzk4%2Ftopic-london-gettyimages-760251843-promo.jpg"London")
+![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
+![Praque](https://turkishairlines.ssl.cdn.sdlmedia.com/637128074690550582SR.jpg"Praque")
