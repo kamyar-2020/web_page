@@ -4,9 +4,11 @@
    you can see everything in the list below</p>
  
  ---
+ 
 + <a href = "#Edu">Life and Education</a> 
 + <a href = "#Interest">Interests</a>
-+ <a href = "#goals">Goals</a>
++ <a href = "#Goals">Goals</a>
+
 ---
 
 ### <span style = "color : #1BD22B">Life and Education</span>
