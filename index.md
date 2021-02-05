@@ -1,5 +1,5 @@
 <h1 id = "beginning">I Am Kamyar Moradian</h1>
-<img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me" width = "135px" height = "173px" padding = "100px">    
+<img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me" width = "135px" height = "173px" padding-left = "100px" >    
 
 <p>Hey every one my name is<span style="color : blue"><b> Kamyar Moradian</b></span>, and this is web page about me and other stuff that i want to share with you<br>
    You can see avialable information in the list below</p>
