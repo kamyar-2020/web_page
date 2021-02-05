@@ -48,7 +48,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <h3 style = " color : #3AAE08  ">Life and Education</h3> 
 -->
 
-<p style = "background-color : #027812 ; color : white" id = "Life and Education">
+<p id = "Life and Education">
    I am <b>18</b> years old and i was born in <strong>Mashhad-Iran</strong>. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite"><b>Elm-o-San'at University(University of Science and Technology of Iran)</b></a> and i am still undergraduate. So, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
 </p>
 
@@ -88,7 +88,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <h3 style = "color : #D2E704">Interests</h3>
 -->
 
-<p style = "color : white" id = "Interest">
+<p id = "Interest">
     Well obviously according to previous section my main interest and hobby is to <b>work with computers</b> and program or even to learn different programming languages. I actually spend most of my time doing it. i'm kind of <br>
    Next thing that i mostly do is <b>surfing the internet</b> and searching for different things in social media, which i think is the main thing that people do these days according  to <em>covid-19 pandamic</em>.<br>
    <b>hanging out with my friends</b> is my next hobby. However these days according to the situation that all of us are into, it's been difficult to go outdoor and the time i spend on this case has been reduced.<br>
@@ -105,7 +105,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <h3 style = "color : #2A9BFF">Goals</h3>
 -->
 
-<p style = " color : white" id = "Goals">
+<p id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b>don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
