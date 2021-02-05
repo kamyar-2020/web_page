@@ -55,10 +55,10 @@ if wanted to write this code fully in html syntax ten it would be like it
 <img src = "./Course.jpg" alt = "My Course" title = "My Course">
 
 <ul><li><h3>My University Course</h3></li></ul>
-<blockquote>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</blockquote>
-<p id = "My University Course">
-    As i mentioned before, the course i am studyin in the University is Computer Engineering. in this section i just want to put some infomation in case if any of you wanted to pick out this course.<br>
-   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the U.S. Bureau of Labor Statistics (BLS). Computer hardware includes:
+<blockquote><em>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</em></blockquote>
+<p id = "Course">
+   As i mentioned before, the course i am studying in the University is <b>Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
+   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b>U.S. Bureau of Labor Statistics (BLS)</b>. Computer hardware includes:</p>
 
    <ul>
       <li>microprocessors;</li>
@@ -79,7 +79,6 @@ if wanted to write this code fully in html syntax ten it would be like it
       <li>security: antivirus, firewalls, encryption and user authentication.</li>
    </ul>
    <a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">for more details about this field you can click on this line.</a>
-</p>
 
 ---
 
@@ -89,7 +88,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <h3 style = "color : #D2E704">Interests</h3>
 -->
 
-<p style = "background-color : #97A900; color : white" id = "Interest">
+<p style = "color : white" id = "Interest">
     Well obviously according to previous section my main interest and hobby is to <b>work with computers</b> and program or even to learn different programming languages. I actually spend most of my time doing it. i'm kind of <br>
    Next thing that i mostly do is <b>surfing the internet</b> and searching for different things in social media, which i think is the main thing that people do these days according  to <em>covid-19 pandamic</em>.<br>
    <b>hanging out with my friends</b> is my next hobby. However these days according to the situation that all of us are into, it's been difficult to go outdoor and the time i spend on this case has been reduced.<br>
@@ -106,7 +105,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <h3 style = "color : #2A9BFF">Goals</h3>
 -->
 
-<p style = "background-color : #00169F; color : white" id = "Goals">
+<p style = " color : white" id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b>don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
