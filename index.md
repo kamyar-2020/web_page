@@ -7,7 +7,7 @@
  ---
 
 + <a href = "#Edu"><strong>Life and Education</strong></a> 
-   + <a href = "#Edu"><strong>My Field</strong></a> 
+   + <a href = "#Field"><strong>My Field</strong></a> 
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
@@ -42,13 +42,20 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 
 ### <span style = " color : #08FF00 ">Life and Education</span>
+<!---
+<h3 style = " color : #08FF00 ">Life and Education</h3> 
+-->
 
 <p style = "background-color : #027812 ; color : white" id = "Life and Education">
-    i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.</p>
+    i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
+</p>
 
 ---
 
 ### <span style = " color : #D2E704">Interests</span>
+<!---
+<h3 style = "color : #D2E704">Interests</h3>
+-->
 
 <p style = "background-color : #97A900; color : white" id = "Interest">
     Well obviously according to previous section my main interest and hobby is to <b>work with computers</b> and program or even to learn different programming languages. I actually spend most of my time doing it. i'm kind of <br>
@@ -60,6 +67,9 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 
 ### <span style = " color : #2A9BFF">Goals</span>
+<!---
+<h3 style = "color : #2A9BFF">Goals</h3>
+-->
 
 <p style = "background-color : #00169F; color : white" id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
@@ -70,28 +80,71 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 </p>
 
 ### <span style = " color : #2BFFB5" id = "Images">Images</span>
+<!---
+<h3 style = "color : #2BFFB5">Images</h3>
+-->
 
 --- 
 
-_and i just added some images there of places that i'd like to visit someday._
-1. Paris
-2. London
-3. Tokyo
-4. Prague
+_and i just wanted to put some images of places i'd like to visit someday and the reason of choosing such places are in the table below._
+
+| Place  | Reason |
+| ------ | ----------- |
+| Paris  | Maybe the main reason i want to visit there someday is because of the culture of france. |
+| London | Because of the succer. you know, their premier league is just fabulous. |
+| Tokyo  | Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
+| Prague | I just love the urban fabric of this city. |
+
+<!---
+<i>and i just added some images there of places that i'd like to visit someday.</i>
+<table>
+    <thead>
+        <tr>
+            <th>Place</th>
+            <th>Reason</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Paris</td>
+            <td>Maybe the main reason i want to visit there someday is because of the culture of france.</td>
+        </tr>
+        <tr>
+            <td>London</td>
+            <td>Because of the succer. you know, their premier league is just fabulous.</td>
+        </tr>
+        <tr>
+            <td>Tokyo</td>
+            <td>Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</td>
+        </tr>
+        <tr>
+            <td>Prague</td>
+            <td>I just love the urban fabric of this city.</td>
+        </tr>
+    </tbody>
+</table>
+-->
 
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
 **Paris**
-                                                                     
+<!---
+<img src = "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900" alt = "Paris" title = "Paris">
+<p><b>Lodon</b></p>
+-->
+
 <hr>
                                                                     
 <img src = "./london.jpg" alt = "London" title = "London">
 **London**
-                                                                     
+
 ----
                                                                      
 ![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
 **Tokyo**
-                                                                     
+<!---
+<img src = "https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*" alt = "Tokyo" title = "Tokyo">
+<p><b>Tokyo</b></p>
+-->
 ----
                                                                      
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
@@ -100,12 +153,25 @@ _and i just added some images there of places that i'd like to visit someday._
 <hr>
 
 ### <span style = " color : #2BFFB5" id = "Contact">Contact Me</span>
-                                                                     
+<!-- <h3 style = "color : "#2BFFB5" id =  "contact">Contact Me</h3> -->
 *And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me*: <br>
+<!-- <p>And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me:</p> -->
 1. My Emails:
    + kamyarmorad1381@gmail.com<br>
    + kamyar_moradian@comp.iust.ac.ir<br>
    <br>
-2. [My Telegram Id](https://t.me/Kami_2002"My telegram Id- click on it -")<br>
+2. [My Telegram Id](https://t.me/Kami_2002"My telegram Id(click on it)")<br>
+
+<!---
+<ol>
+   <li>My Emails</li>
+   <ul>
+      <li>kamyarmorad1381@gmail.com</li>
+      <li>kamyar_moradian@comp.iust.ac.ir</li>
+   </ul>
+   <a href = "https://t.me/Kami_2002" title = "My telegram Id(click on it)"><li>My Telegram Id</li></a>
+</ol>
+-->
 
 <a href = "#beginning"> ![TOP](./mainupperArrow.png) </a>
+<!-- <a href = "#beginning"><img src = "./mainupperArrow.png" alt = "TOP"></a> -->
