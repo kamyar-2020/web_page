@@ -51,7 +51,7 @@ if wanted to write this code fully in html syntax ten it would be like it
     i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
 </p>
 
-### <ul><li>My University Course</li></ul>
+### <span><ul><li>My University Course</li></ul></span>
 <blockquote>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</blockquote>
 <p id = "My University Course">
     As i mentioned before, the course i am studyin in the University is Computer Engineering. in this section i just want to put some infomation in case if any of you wanted to pick out this course.<br>
