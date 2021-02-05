@@ -49,7 +49,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 <p style = "background-color : #027812 ; color : white" id = "Life and Education">
-    i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
+   I am <b>18</b> years old and i was born in <strong>Mashhad-Iran</strong>. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite"><b>Elm-o-San'at University(University of Science and Technology of Iran)</b></a> and i am still undergraduate. So, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
 </p>
 
 <img src = "./Course.jpg" alt = "My Course" title = "My Course">
@@ -68,11 +68,11 @@ if wanted to write this code fully in html syntax ten it would be like it
       <li><b>output devices: printers, monitors, audio devices and remote controls;</b></li>
       <li><b>networking components: adapters, modems, switches and routers.</b></li>
    </ul>
-   <p>An important function of computer engineers is to integrate these components into computer and network systems. This all requires a good working knowledge of electrical engineering.</p>
+   <p>An important function of computer engineers is <b>to integrate these components into computer and network systems</b>. This all requires a good working knowledge of electrical engineering.</p>
    <p>Another important aspect of computer engineering is software development. <b>Computer software</b> includes:</p>
    <ul>
       <li><b>operating systems;</b></li>
-      <li><b>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM),              audio, video, media and games;</li>
+      <li><b>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM),              audio, video, media and games;</b></li>
       <li><b>networking and communications: World Wide Web (WWW), voice over Internet Protocol (VOIP), instant messaging and email;</b></li>
       <li><b>utilities: file handling, disk management, device drivers, archiving and backup systems;</b></li>
       <li><b>proramming languages: editing, compiling and debugging;</b></li>
