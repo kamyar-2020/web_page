@@ -189,9 +189,9 @@ _and i just wanted to put some images of places i'd like to visit someday and th
                                                                      
 <hr>
 
-### <span style = " color : #2BFFB5" id = "Contact">Contact Me</span>
+### <span style = " color : #007B83" id = "Contact">Contact Me</span>
 
-<!--- <h3 style = "color : "#2BFFB5" id =  "contact">Contact Me</h3> --->
+<!--- <h3 style = "color : "#007B83" id =  "contact">Contact Me</h3> --->
 
 *And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me*: <br>
 
