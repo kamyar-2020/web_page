@@ -40,7 +40,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 ---
-<img src = "../images/learning.jpg" alt = "Picture of Education" title = "Education">
+<img src = "web_page/images/learning.jpg" alt = "Picture of Education" title = "Education">
 
 ### <span style = " color : #3AAE08 ">Life and Education</span>
 
