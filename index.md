@@ -1,4 +1,5 @@
 <h1 id = "beginning">I Am Kamyar Moradian</h1>
+<img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me" width = "135px" height = "173px" padding = "100px">    
 
 <p>Hey every one my name is<span style="color : blue"><b> Kamyar Moradian</b></span>, and this is web page about me and other stuff that i want to share with you<br>
    You can see avialable information in the list below</p>
@@ -6,10 +7,37 @@
  ---
 
 + <a href = "#Edu"><strong>Life and Education</strong></a> 
+   + <a href = "#Edu"><strong>My Field</strong></a> 
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
 + <a href = "#Contact"><strong>Contact Me</strong></a>
+
+<!---
+if wanted to write this code fully in html syntax ten it would be like it
+   <ul>
+        <a href="Edu">
+            <li><strong>Life and Education</strong></li>
+        </a>
+        <ul>
+            <a href="Feild">
+                <li><strong>My Feild</strong></li>
+            </a>
+        </ul>
+        <a href="#Interest">
+            <li><strong>Interests</strong></li>
+        </a>
+        <a href="#Goals">
+            <li><strong>Goals</strong></li>
+        </a>
+        <a href="#Images">
+            <li><strong>Images</strong< /li>
+        </a>
+        <a href="#Contact">
+            <li><strong>Contact Me</strong></li>
+        </a>
+    </ul>
+-->
 
 ---
 
@@ -42,10 +70,6 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 </p>
 
 ### <span style = " color : #2BFFB5" id = "Images">Images</span>
-
-_Now it's time to see some images. first one is an image from me._
-
-<img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me">            
 
 --- 
 
