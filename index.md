@@ -147,8 +147,8 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 ![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
 **Tokyo**
 
-<!---<img src = "https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*" alt = "Tokyo" title = "Tokyo">
-<p><b>Tokyo</b></p>--->
+<!--- <img src = "https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*" alt = "Tokyo" title = "Tokyo">
+<p><b>Tokyo</b></p> --->
 
 ----
                                                                      
