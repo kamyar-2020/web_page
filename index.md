@@ -60,7 +60,7 @@ if wanted to write this code fully in html syntax ten it would be like it
    As i mentioned before, the course i am studying in the University is <b>Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
    Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b>U.S. Bureau of Labor Statistics (BLS)</b>. <b>Computer hardware</b> includes:</p>
 
-   <ul>
+   <ul style = "color : #15005C">
    <li><b>microprocessors;</b></li>
       <li><b>memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</b></li>
       <li><b>data storage devices: hard disks, solid-state drives and optical drives;</b></li>
@@ -70,7 +70,7 @@ if wanted to write this code fully in html syntax ten it would be like it
    </ul>
    <p>An important function of computer engineers is <b>to integrate these components into computer and network systems</b>. This all requires a good working knowledge of electrical engineering.</p>
    <p>Another important aspect of computer engineering is software development. <b>Computer software</b> includes:</p>
-   <ul>
+   <ul style = "color : #15005C">
       <li><b>operating systems;</b></li>
       <li><b>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM),              audio, video, media and games;</b></li>
       <li><b>networking and communications: World Wide Web (WWW), voice over Internet Protocol (VOIP), instant messaging and email;</b></li>
