@@ -76,6 +76,6 @@ _and i just added some images there of places that i'd like to visit someday._
 *And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me*: <br>
 My Gmail: kamyarmorad1381@gmail.com<br>
           kamyar_moradian@comp.iust.ac.ir<br>
-[My Telegram Id](https://t.me/Kami_2002"My telegram Id( Click On It:)")<br>
+[My Telegram Id](https://t.me/Kami_2002"My telegram Id- click on it -")<br>
 
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
