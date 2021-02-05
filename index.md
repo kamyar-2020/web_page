@@ -5,13 +5,11 @@
  
  ---
 
-<div style = "background-color : #2A00FF">
 + <a href = "#Edu"><strong>Life and Education</strong></a> 
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
 + <a href = "#Contact"><strong>Contact</strong></a>
-</div>
 
 ---
 
@@ -71,12 +69,14 @@ _and i just added some images there of places that i'd like to visit someday._
                                                                      
 <hr>
 
-### <span style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;" id = "Contact">Cotact Me</span>
+### <div style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;" id = "Contact">Cotact Me</div>
 
                                                                      
 <p style = "background-color : #00169F; color : white" id = "Goals">
 And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me:<br>
 My Gmail: kamyarmorad1381@gmail.com<br>
           kamyar_moradian@comp.iust.ac.ir<br>
-My Telegram Id: @kami_1381<br>
+My Telegram Id: @kami_2002<br>
+   
+   
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
