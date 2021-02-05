@@ -42,6 +42,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 
 ### <span style = " color : #08FF00 ">Life and Education</span>
+
 <!---
 <h3 style = " color : #08FF00 ">Life and Education</h3> 
 -->
@@ -53,6 +54,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 
 ### <span style = " color : #D2E704">Interests</span>
+
 <!---
 <h3 style = "color : #D2E704">Interests</h3>
 -->
@@ -67,6 +69,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 
 ### <span style = " color : #2A9BFF">Goals</span>
+
 <!---
 <h3 style = "color : #2A9BFF">Goals</h3>
 -->
@@ -80,6 +83,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 </p>
 
 ### <span style = " color : #2BFFB5" id = "Images">Images</span>
+
 <!---
 <h3 style = "color : #2BFFB5">Images</h3>
 -->
@@ -127,6 +131,7 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
 **Paris**
+
 <!----
 <img src = "https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900" alt = "Paris" title = "Paris">
 <p><b>Lodon</b></p>
@@ -141,10 +146,10 @@ _and i just wanted to put some images of places i'd like to visit someday and th
                                                                      
 ![Tokyo](https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*"Tokyo")
 **Tokyo**
-<!----
-<img src = "https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*" alt = "Tokyo" title = "Tokyo">
-<p><b>Tokyo</b></p>
---->
+
+<!---<img src = "https://stillmedab.olympic.org/media/Images/OlympicOrg/News/2020/03/24/2020-03-24-tokyo-thumbnail-01.jpg?interpolation=lanczos-none&resize=*:*" alt = "Tokyo" title = "Tokyo">
+<p><b>Tokyo</b></p>--->
+
 ----
                                                                      
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
@@ -153,9 +158,13 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 <hr>
 
 ### <span style = " color : #2BFFB5" id = "Contact">Contact Me</span>
+
 <!--- <h3 style = "color : "#2BFFB5" id =  "contact">Contact Me</h3> --->
+
 *And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me*: <br>
+
 <!--- <p>And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me:</p> --->
+
 1. My Emails:
    + kamyarmorad1381@gmail.com<br>
    + kamyar_moradian@comp.iust.ac.ir<br>
