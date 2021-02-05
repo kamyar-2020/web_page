@@ -4,11 +4,14 @@
    you can see everything in the list below</p>
  
  ---
- 
+
+<div style = "background-color : #2A00FF">
 + <a href = "#Edu"><strong>Life and Education</strong></a> 
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
++ <a href = "#Contact"><strong>Contact</strong></a>
+</div>
 
 ---
 
@@ -40,18 +43,18 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 
 ### <span style = " color : #2BFFB5" id = "Images">Images</span>
 
-_now that i talked about my self and things related to me it's the time to see me_ &#128578
+_Now it's time to see some images. first one is an image from me._ &#128578
 
 <img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me">            
 
 --- 
 
-and i just wanted to share some places that i want to visit someday.
+_and i just added some images there of places that i'd like to visit someday._
 
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
 **Paris**
                                                                      
----
+<hr>
                                                                     
 <img src = "./london.jpg" alt = "London" title = "London">
 **London**
@@ -66,7 +69,14 @@ and i just wanted to share some places that i want to visit someday.
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
 **Prague**
                                                                      
-----
+<hr>
+
+### <span style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;" id = "Contact">Cotact Me</span>
+
                                                                      
-                                                                     
+<p style = "background-color : #00169F; color : white" id = "Goals">
+And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me:<br>
+My Gmail: kamyarmorad1381@gmail.com<br>
+          kamyar_moradian@comp.iust.ac.ir<br>
+My Telegram Id: @kami_1381<br>
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
