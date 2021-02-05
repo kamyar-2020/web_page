@@ -41,7 +41,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 
 ### <span style = " color : #2BFFB5" id = "Images">Images</span>
 
-_Now it's time to see some images. first one is an image from me._
+_Now it's time to see some images. first one is an image from me._ &#128578
 
 <img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me">            
 
