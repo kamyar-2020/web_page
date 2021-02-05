@@ -16,7 +16,7 @@
 ### <span style = " color : #08FF00 ">Life and Education</span>
 
 <p style = "background-color : #027812 ; color : white" id = "Life and Education">
-    i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
+    i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.</p>
 
 ---
 
@@ -54,7 +54,7 @@ _and i just added some images there of places that i'd like to visit someday._
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
 **Paris**
                                                                      
-----
+<hr>
                                                                     
 <img src = "./london.jpg" alt = "London" title = "London">
 **London**
@@ -69,7 +69,7 @@ _and i just added some images there of places that i'd like to visit someday._
 <img src = "./prague.jpg" alt = "Prague" title = "Prague">
 **Prague**
                                                                      
------
+<hr>
 
 ### <span style = " color : #2BFFB5" id = "Contact">Contact Me</span>
                                                                      
