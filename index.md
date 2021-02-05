@@ -58,25 +58,25 @@ if wanted to write this code fully in html syntax ten it would be like it
 <blockquote><em>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</em></blockquote>
 <p id = "Course">
    As i mentioned before, the course i am studying in the University is <b>Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
-   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b>U.S. Bureau of Labor Statistics (BLS)</b>. Computer hardware includes:</p>
+   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b>U.S. Bureau of Labor Statistics (BLS)</b>. <b>Computer hardware</b> includes:</p>
 
    <ul>
-      <li>microprocessors;</li>
-      <li>memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</li>
-      <li>data storage devices: hard disks, solid-state drives and optical drives;</li>
-      <li>input devices: keyboards, mice, joysticks and gaming controllers, cameras, microphones, scanners, touch screens and remote sensors;</li>
-      <li>output devices: printers, monitors, audio devices and remote controls;</li>
-      <li>networking components: adapters, modems, switches and routers.</li>
+   <li><b>microprocessors;</b></li>
+      <li><b>memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</b></li>
+      <li><b>data storage devices: hard disks, solid-state drives and optical drives;</b></li>
+      <li><b>input devices: keyboards, mice, joysticks and gaming controllers, cameras, microphones, scanners, touch screens and remote sensors;</b></li>
+      <li><b>output devices: printers, monitors, audio devices and remote controls;</b></li>
+      <li><b>networking components: adapters, modems, switches and routers.</b></li>
    </ul>
    <p>An important function of computer engineers is to integrate these components into computer and network systems. This all requires a good working knowledge of electrical engineering.</p>
-   Another important aspect of computer engineering is software development. Computer software includes:
+   <p>Another important aspect of computer engineering is software development. <b>Computer software</b> includes:</p>
    <ul>
-    <li>operating systems;</li>
-      <li>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM), audio,          video, media and games;</li>
-      <li>networking and communications: World Wide Web (WWW), voice over Internet Protocol (VOIP), instant messaging and email;</li>
-      <li>utilities: file handling, disk management, device drivers, archiving and backup systems;</li>
-      <li>proramming languages: editing, compiling and debugging;</li>
-      <li>security: antivirus, firewalls, encryption and user authentication.</li>
+      <li><b>operating systems;</b></li>
+      <li><b>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM),              audio, video, media and games;</li>
+      <li><b>networking and communications: World Wide Web (WWW), voice over Internet Protocol (VOIP), instant messaging and email;</b></li>
+      <li><b>utilities: file handling, disk management, device drivers, archiving and backup systems;</b></li>
+      <li><b>proramming languages: editing, compiling and debugging;</b></li>
+      <li><b>security: antivirus, firewalls, encryption and user authentication.</b></li>
    </ul>
    <a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">for more details about this field you can click on this line.</a>
 
