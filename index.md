@@ -69,7 +69,7 @@ _and i just added some images there of places that i'd like to visit someday._
                                                                      
 <hr>
 
-<div style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; color : #001FFF" id = "Contact"><h3>Cotact Me</h3></div>
+<div style = "background-image: url('contact.png'); background-repeat: no-repeat; background-size: cover; color : #001FFF" id = "Contact"><h3>Cotact Me</h3></div>
 
                                                                      
 <p style = "background-color : #00169F; color : white" id = "Goals">
