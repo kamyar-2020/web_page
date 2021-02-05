@@ -78,7 +78,7 @@ _and i just added some images there of places that i'd like to visit someday._
 ### <span style = " color : #2BFFB5" id = "Contact">Contact Me</span>
                                                                      
 *And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me*: <br>
-+ My Gmail:
++ My Emails:
    + kamyarmorad1381@gmail.com<br>
    + kamyar_moradian@comp.iust.ac.ir<br>
    <br>
