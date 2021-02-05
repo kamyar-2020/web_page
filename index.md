@@ -7,7 +7,7 @@
  ---
 
 + <a href = "#Edu"><strong>Life and Education</strong></a> 
-   + <a href = "#Field"><strong>My Field</strong></a> 
+   + <a href = "#Course"><strong>My University Course</strong></a> 
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
@@ -20,8 +20,8 @@ if wanted to write this code fully in html syntax ten it would be like it
             <li><strong>Life and Education</strong></li>
         </a>
         <ul>
-            <a href="Feild">
-                <li><strong>My Feild</strong></li>
+            <a href="Course">
+                <li><strong>My University Cours</strong></li>
             </a>
         </ul>
         <a href="#Interest">
@@ -41,14 +41,41 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 ---
 
-### <span style = " color : #08FF00 ">Life and Education</span>
+### <span style = " color : #3AAE08 ">Life and Education</span>
 
 <!---
-<h3 style = " color : #08FF00 ">Life and Education</h3> 
+<h3 style = " color : #3AAE08  ">Life and Education</h3> 
 -->
 
 <p style = "background-color : #027812 ; color : white" id = "Life and Education">
     i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
+</p>
+
+##### <span style = " color : #6DBD00 ">My University Course</span>
+<blockquote>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</blockquote>
+<p style = "background-color : #93FF00 ; color : black" id = "My University Course">
+    As i mentioned before, the course i am studyin in the University is Computer Engineering. in this section i just want to put some infomation in case if any of you wanted to pick out this course.<br>
+   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the U.S. Bureau of Labor Statistics (BLS). Computer hardware includes:
+
+   <ul>
+      <li>microprocessors;</li>
+      <li>memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</li>
+      <li>data storage devices: hard disks, solid-state drives and optical drives;</li>
+      <li>input devices: keyboards, mice, joysticks and gaming controllers, cameras, microphones, scanners, touch screens and remote sensors;</li>
+      <li>output devices: printers, monitors, audio devices and remote controls;</li>
+      <li>networking components: adapters, modems, switches and routers.</li>
+   </ul>
+   An important function of computer engineers is to integrate these components into computer and network systems. This all requires a good working knowledge of electrical      engineering.<br>
+   Another important aspect of computer engineering is software development. Computer software includes:
+   <ul>
+    <li>operating systems;</li>
+      <li>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM), audio,          video, media and games;</li>
+      <li>networking and communications: World Wide Web (WWW), voice over Internet Protocol (VOIP), instant messaging and email;</li>
+      <li>utilities: file handling, disk management, device drivers, archiving and backup systems;</li>
+      <li>proramming languages: editing, compiling and debugging;</li>
+      <li>security: antivirus, firewalls, encryption and user authentication.</li>
+   </ul>
+   <a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">for more details about this field you can click on this line.</a>
 </p>
 
 ---
