@@ -13,8 +13,8 @@
 
 ---
 
-### <span style = "color : #1BD22B">Life and Education</span>
-<p style = "background-color : #005708; color : white" id = "Edu">
+<div style = "background-image: url('EDU.jpeg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; color : #001FFF" id = "Life and Education"><h3>Life and Education</h3></div>
+<p style = "background-image: url('EDU.jpeg'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; color : #001FFF">
     i am 18 years old and i was born in Mashhad-Iran and actually now i am studying in the field of Computer Engineering in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case except that my konkoor rank was 491 of manteghe yek(i don't know english meaning &#128578) and i studied in Ario mosalla nejad highschool in Mashhad.
     i don't have much more to add to this field except that my english education is at the intermedate level &#128578.</p>
 
@@ -69,7 +69,7 @@ _and i just added some images there of places that i'd like to visit someday._
                                                                      
 <hr>
 
-<div style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;" id = "Contact"><h3>Cotact Me</h3></div>
+<div style = "background-image: url('contact.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: cover; color : #001FFF" id = "Contact"><h3>Cotact Me</h3></div>
 
                                                                      
 <p style = "background-color : #00169F; color : white" id = "Goals">
@@ -77,6 +77,6 @@ And finally i want to put my gmails and my telegram id here. and i'll be happy i
 My Gmail: kamyarmorad1381@gmail.com<br>
           kamyar_moradian@comp.iust.ac.ir<br>
 My Telegram Id: @kami_2002<br>
-   
+</p>
    
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
