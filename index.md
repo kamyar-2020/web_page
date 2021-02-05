@@ -79,8 +79,8 @@ _and i just added some images there of places that i'd like to visit someday._
                                                                      
 *And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me*: <br>
 + My Emails:
-   + kamyarmorad1381@gmail.com<br>
-   + kamyar_moradian@comp.iust.ac.ir<br>
+   1. kamyarmorad1381@gmail.com<br>
+   1. kamyar_moradian@comp.iust.ac.ir<br>
    <br>
 + [My Telegram Id](https://t.me/Kami_2002"My telegram Id- click on it -")<br>
 
