@@ -1,4 +1,4 @@
-<h1 id = "beginning">i am KAMYAR MORADIAN</h1>
+<h1 id = "beginning">I Am Kamyar Moradian</h1>
 
 <p>hey every one my name is<span style="color : blue"><b> Kamyar Moradian</b></span>, and this is web page about me and other stuff that i want to share with you<br>
    you can see avialable information in the list below</p>
@@ -73,6 +73,6 @@ _and i just added some images there of places that i'd like to visit someday._
 And finally i want to put my gmails and my telegram id here. and i'll be happy if you contact me:<br>
 My Gmail: kamyarmorad1381@gmail.com<br>
           kamyar_moradian@comp.iust.ac.ir<br>
-My Telegram Id: @kami_2002<br>
-   
+<a href = "https://t.me/Kami_2002" title = "click on me">My Telegram Id link( click on it :) )</a><br>
+
 <a href = "#beginning"> ![TOP](./upperArrow1.png) </a>
