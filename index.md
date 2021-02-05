@@ -9,7 +9,7 @@
 + <a href = "#Interest"><strong>Interests</strong></a>
 + <a href = "#Goals"><strong>Goals</strong></a>
 + <a href = "#Images"><strong>Images</strong></a>
-+ <a href = "#Contact"><strong>Contact</strong></a>
++ <a href = "#Contact"><strong>Contact Me</strong></a>
 
 ---
 
