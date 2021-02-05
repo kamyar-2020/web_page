@@ -40,7 +40,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 ---
-<img src = "../images/learning.jpeg" alt = "Picture of Education" title = "Education">
+<img src = "../images/learning.jpg" alt = "Picture of Education" title = "Education">
 
 ### <span style = " color : #3AAE08 ">Life and Education</span>
 
@@ -52,7 +52,7 @@ if wanted to write this code fully in html syntax ten it would be like it
     i am 18 years old and i was born in Mashhad-Iran. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite">Elm-o-San'at University(University of Science and Technology of Iran)</a> and i am still undergraduate. so, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
 </p>
 
-<img src = "../images/Course.jpeg" alt = "My Course" title = "My Course">
+<img src = "../images/Course.jpg" alt = "My Course" title = "My Course">
 
 <ul><li><h3>My University Course</h3></li></ul>
 <blockquote>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</blockquote>
@@ -98,7 +98,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 ---
 
-<img src = "../images/goals.jpeg" alt = "Goal" title = "Goal">
+<img src = "../images/goals.jpg" alt = "Goal" title = "Goal">
 
 ### <span style = " color : #2A9BFF">Goals</span>
 
