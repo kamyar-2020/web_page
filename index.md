@@ -50,6 +50,10 @@ _Now it's time to see some images. first one is an image from me._ &#128578
 --- 
 
 _and i just added some images there of places that i'd like to visit someday._
+1. Paris
+2. London
+3. Tokyo
+4. Prague
 
 ![Paris](https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900"Paris")
 **Paris**
