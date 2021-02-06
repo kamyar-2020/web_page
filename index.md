@@ -1,7 +1,7 @@
 <h1 id = "beginning">I Am Kamyar Moradian</h1>
 <img src = "IMG-20201101-WA0017.jpg" alt = "Me" title = "Me" width = "135px" height = "173px" padding-left = "100px" >    
 
-<p>Hey every one my name is<span style="color : blue"><b> Kamyar Moradian</b></span>, and this is web page about me and other stuff that i want to share with you<br>
+<p>Hey every one my name is<span style = "color : #15005C"><b> Kamyar Moradian</b></span>, and this is web page about me and other stuff that i want to share with you<br>
    You can see avialable information in the list below</p>
  
  ---
@@ -49,7 +49,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 <p id = "Life and Education">
-   I am <b>18</b> years old and i was born in <strong>Mashhad-Iran</strong>. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite"><b>Elm-o-San'at University(University of Science and Technology of Iran)</b></a> and i am still undergraduate. So, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
+   I am <b style = "color : #15005C">18</b> years old and i was born in <strong style = "color : #15005C">Mashhad-Iran</strong>. Actually now i am studying in the field of Computer Engineering-and I love this field- in <a href = "http://www.iust.ac.ir/en" title = "URL of My Uni WebSite"><b style = "color : #15005C">Elm-o-San'at University(University of Science and Technology of Iran)</b></a> and i am still undergraduate. So, i actually don't have much to say in this case, except that the highschool i studied was located in Mashad, called Mosalla Nejad.
 </p>
 
 <img src = "./Course.jpg" alt = "My Course" title = "My Course">
@@ -57,16 +57,16 @@ if wanted to write this code fully in html syntax ten it would be like it
 <ul><li><h3>My University Course</h3></li></ul>
 <blockquote><em>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</em></blockquote>
 <p id = "Course">
-   As i mentioned before, the course i am studying in the University is <b>Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
-   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b>U.S. Bureau of Labor Statistics (BLS)</b>. <b>Computer hardware</b> includes:</p>
+   As i mentioned before, the course i am studying in the University is <b style = "color : #15005C">Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
+   Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b style = "color : #15005C">U.S. Bureau of Labor Statistics (BLS)</b>. <b style = "color : #15005C">Computer hardware</b> includes:</p>
 
    <ul style = "color : #15005C">
-   <li><b>microprocessors;</b></li>
-      <li><b>memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</b></li>
-      <li><b>data storage devices: hard disks, solid-state drives and optical drives;</b></li>
-      <li><b>input devices: keyboards, mice, joysticks and gaming controllers, cameras, microphones, scanners, touch screens and remote sensors;</b></li>
-      <li><b>output devices: printers, monitors, audio devices and remote controls;</b></li>
-      <li><b>networking components: adapters, modems, switches and routers.</b></li>
+   <li><b >microprocessors;</b></li>
+      <li><b >memory chips: random-access memory (RAM), read-only memory (ROM) and nonvolatile rewritable flash memory;</b></li>
+      <li><b >data storage devices: hard disks, solid-state drives and optical drives;</b></li>
+      <li><b >input devices: keyboards, mice, joysticks and gaming controllers, cameras, microphones, scanners, touch screens and remote sensors;</b></li>
+      <li><b >output devices: printers, monitors, audio devices and remote controls;</b></li>
+      <li><b >networking components: adapters, modems, switches and routers.</b></li>
    </ul>
    <p>An important function of computer engineers is <b>to integrate these components into computer and network systems</b>. This all requires a good working knowledge of electrical engineering.</p>
    <p>Another important aspect of computer engineering is software development. <b>Computer software</b> includes:</p>
@@ -89,10 +89,10 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 <p id = "Interest">
-    Well obviously according to previous section my main interest and hobby is to <b>work with computers</b> and program or even to learn different programming languages. I actually spend most of my time doing it. i'm kind of <br>
-   Next thing that i mostly do is <b>surfing the internet</b> and searching for different things in social media, which i think is the main thing that people do these days according  to <em>covid-19 pandamic</em>.<br>
-   <b>hanging out with my friends</b> is my next hobby. However these days according to the situation that all of us are into, it's been difficult to go outdoor and the time i spend on this case has been reduced.<br>
-    As i mentioned, these days we rarely can go outdoor, according to <em>covid-19 pandemic</em>.So i had to stick to an old hobby, <b>watching movies</b>. I actually spend most of my time doing it, and enjoy it very much.
+    Well obviously according to previous section my main interest and hobby is to <b style = "color : #15005C">work with computers</b> and program or even to learn different programming languages. I actually spend most of my time doing it. i'm kind of <br>
+   Next thing that i mostly do is <b style = "color : #15005C">surfing the internet</b> and searching for different things in social media, which i think is the main thing that people do these days according  to <em style = "color : #15005C">covid-19 pandamic</em>.<br>
+   <b style = "color : #15005C">hanging out with my friends</b> is my next hobby. However these days according to the situation that all of us are into, it's been difficult to go outdoor and the time i spend on this case has been reduced.<br>
+    As i mentioned, these days we rarely can go outdoor, according to <em style = "color : #15005C">covid-19 pandemic</em>.So i had to stick to an old hobby, <b style = "color : #15005C">watching movies</b>. I actually spend most of my time doing it, and enjoy it very much.
 </p>
 
 ---
@@ -106,11 +106,11 @@ if wanted to write this code fully in html syntax ten it would be like it
 -->
 
 <p id = "Goals">
-Before i begin to start sharing my goals with you, i should tell you that you need to <b>keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
-First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b>don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
+Before i begin to start sharing my goals with you, i should tell you that you need to <b style = "color : #15005C">keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
+First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b style = "color : #15005C">don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
-however i told you it's better to keep your goals as secrest, but one of my goals which i prefer to say one of my <b>dreams</b> is to go around the world and see how other places look like-images are in the image section.<br>
-<strong>Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
+however i told you it's better to keep your goals as secrest, but one of my goals which i prefer to say one of my <b style = "color : #15005C">dreams</b> is to go around the world and see how other places look like-images are in the image section.<br>
+<strong style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
 
 ### <span style = " color : #780012" id = "Images">Images</span>
@@ -123,7 +123,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 
 _and i just wanted to put some images of places i'd like to visit someday and the reason of choosing such places are in the table below._
 
-| Place  | Reason |
+| <span style = "color : #15005C">Place</span>  | <span style = "color : #15005C">Reason</span> |
 | ------ | ----------- |
 | Paris  | Maybe the main reason i want to visit there someday is because of the culture of france. |
 | London | Because of the succer. you know, their premier league is just fabulous. |
@@ -200,7 +200,7 @@ _and i just wanted to put some images of places i'd like to visit someday and th
    + kamyarmorad1381@gmail.com<br>
    + kamyar_moradian@comp.iust.ac.ir<br>
    <br>
-2. [My Telegram Id](https://t.me/Kami_2002"My telegram Id(click on it)")<br>
+2. [My Telegram Id](https://t.me/Kami_2002 "My telegram Id(click on it)")<br>
 
 <!---
 <ol>
