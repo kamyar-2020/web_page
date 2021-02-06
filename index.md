@@ -42,7 +42,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 <img src = "./learning.jpg" alt = "Education" title = "Education">
 
-### <span style = " color : #3AAE08 ">Life and Education</span>
+### <span style = " color : #004A0B ">Life and Education</span>
 
 <!---
 <h3 style = " color : #3AAE08  ">Life and Education</h3> 
@@ -57,7 +57,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <ul><li><h3>My University Course</h3></li></ul>
 <blockquote><em>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</em></blockquote>
 <p id = "Course">
-   As i mentioned before, the course i am studying in the University is <b style = "color : #15005C">Computer Engineering</b>. in this section i want to put some infomation about this course, in case if  you wanted to pick out this course.<br>
+   As i mentioned before, the course i am studying in the University is <b style = "color : #15005C">Computer Engineering</b>. in this section i want to put some infomation about this course, in case if you want to pick out this course.<br>
    Computer hardware engineers "research, design, develop and test computer systems and components such as processors, circuit boards, memory devices, networks and routers," according to the <b style = "color : #15005C">U.S. Bureau of Labor Statistics (BLS)</b>. <b style = "color : #15005C">Computer hardware</b> includes:</p>
 
    <ul style = "color : #15005C">
@@ -68,8 +68,8 @@ if wanted to write this code fully in html syntax ten it would be like it
       <li><b >output devices: printers, monitors, audio devices and remote controls;</b></li>
       <li><b >networking components: adapters, modems, switches and routers.</b></li>
    </ul>
-   <p>An important function of computer engineers is <b>to integrate these components into computer and network systems</b>. This all requires a good working knowledge of electrical engineering.</p>
-   <p>Another important aspect of computer engineering is software development. <b>Computer software</b> includes:</p>
+   <p>An important function of computer engineers is <b style = "color : #15005C">to integrate these components into computer and network systems</b>. This all requires a good working knowledge of electrical engineering.</p>
+   <p>Another important aspect of computer engineering is software development. <b style = "color : #15005C">Computer software</b> includes:</p>
    <ul style = "color : #15005C">
       <li><b>operating systems;</b></li>
       <li><b>applications: word processing, spreadsheets, accounting, database management, graphics, computer-assisted design (CAD), computer-assisted manufacturing (CAM),              audio, video, media and games;</b></li>
@@ -78,11 +78,11 @@ if wanted to write this code fully in html syntax ten it would be like it
       <li><b>proramming languages: editing, compiling and debugging;</b></li>
       <li><b>security: antivirus, firewalls, encryption and user authentication.</b></li>
    </ul>
-   <a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">for more details about this field you can click on this line.</a>
+<p>And it was a little bit of information about this course.<a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">if you want to gain more information about this course you can click on this line.</a></p>
 
 ---
 
-### <span style = " color : #D2E704">Interests</span>
+### <span style = " color : #004A0B">Interests</span>
 
 <!---
 <h3 style = "color : #D2E704">Interests</h3>
@@ -99,7 +99,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 <img src = "./goals.jpg" alt = "Goal" title = "Goal">
 
-### <span style = " color : #2A9BFF">Goals</span>
+### <span style = " color : #004A0B">Goals</span>
 
 <!---
 <h3 style = "color : #2A9BFF">Goals</h3>
@@ -110,10 +110,10 @@ Before i begin to start sharing my goals with you, i should tell you that you ne
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b style = "color : #15005C">don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
 however i told you it's better to keep your goals as secrest, but one of my goals which i prefer to say one of my <b style = "color : #15005C">dreams</b> is to go around the world and see how other places look like-images are in the image section.<br>
-<strong style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
+<strong <span style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
 
-### <span style = " color : #780012" id = "Images">Images</span>
+### <span style = " color : #004A0B" id = "Images">Images</span>
 
 <!---
 <h3 style = "color : #780012">Images</h3>
@@ -125,10 +125,10 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 
 | <span style = "color : #15005C">Place</span>  | <span style = "color : #15005C">Reason</span> |
 | ------ | ----------- |
-| Paris  | Maybe the main reason i want to visit there someday is because of the culture of france. |
-| London | Because of the succer. you know, their premier league is just fabulous. |
-| Tokyo  | Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
-| Prague | I just love the urban fabric of this city. |
+| <span style = "color : #850000">Paris  | <span style = "color : #850000">Maybe the main reason i want to visit there someday is because of the culture of france. |
+| <span style = "color : #850000">London | <span style = "color : #850000">Because of the succer. you know, their premier league is just fabulous. |
+| <span style = "color : #850000">Tokyo  | <span style = "color : #850000">Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
+| <span style = "color : #850000">Prague | <span style = "color : #850000">I just love the urban fabric of this city. |
 
 <!---
 <i>and i just added some images there of places that i'd like to visit someday.</i>
