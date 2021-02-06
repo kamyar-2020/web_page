@@ -110,7 +110,7 @@ Before i begin to start sharing my goals with you, i should tell you that you ne
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b style = "color : #15005C">don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
 Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
 however i told you it's better to keep your goals as secrest, but one of my goals which i prefer to say one of my <b style = "color : #15005C">dreams</b> is to go around the world and see how other places look like-images are in the image section.<br>
-<strong <span style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
+<strong style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
 
 ### <span style = " color : #004A0B" id = "Images">Images</span>
