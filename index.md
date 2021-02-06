@@ -78,7 +78,7 @@ if wanted to write this code fully in html syntax ten it would be like it
       <li><b>proramming languages: editing, compiling and debugging;</b></li>
       <li><b>security: antivirus, firewalls, encryption and user authentication.</b></li>
    </ul>
-<p>And it was a little bit of information about this course.<a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices.">if you want to gain more information about this course you can click on this line.</a></p>
+<p>And it was a little bit of information about this course.<a href = "https://www.livescience.com/48326-computer-engineering.html#:~:text=Computer%20engineering%20is%20the%20branch,systems%20and%20other%20technological%20devices."><b>if you want to gain more information about this course you can click on this line.</b></a></p>
 
 ---
 
