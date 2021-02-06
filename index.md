@@ -45,7 +45,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B ">Life and Education</b>
 
 <!---
-<h3 style = " color : #004A0B  ">Life and Education</h3> 
+<h3 style = " color : #004A0B  "><b>Life and Education</b></h3> 
 -->
 
 <p id = "Life and Education">
@@ -54,7 +54,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 <img src = "./Course.jpg" alt = "My Course" title = "My Course">
 
-<ul><li><h3>My University Course</h3></li></ul>
+<ul><li><h3><b style = "color : #15005C">My University Course</b></h3></li></ul>
 <blockquote><em>Computers are incridebly fast, accurate, and stupid; humans are incredibly slow, inaccurate and brilliant; together they are poweful beyond imagination.</em></blockquote>
 <p id = "Course">
    As i mentioned before, the course i am studying in the University is <b style = "color : #15005C">Computer Engineering</b>. in this section i want to put some infomation about this course, in case if you want to pick out this course.<br>
@@ -85,7 +85,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B">Interests</b>
 
 <!---
-<h3 style = "color : #004A0B">Interests</h3>
+<h3 style = "color : #004A0B"><b>Interests/b></h3>
 -->
 
 <p id = "Interest">
@@ -102,7 +102,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B">Goals</b>
 
 <!---
-<h3 style = "color : #004A0B">Goals</h3>
+<h3 style = "color : #004A0B"><b>Goals</b></h3>
 -->
 
 <p id = "Goals">
@@ -116,7 +116,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 ### <b style = " color : #004A0B" id = "Images">Images</b>
 
 <!---
-<h3 style = "color : #004A0B"">Images</h3>
+<h3 style = "color : #004A0B""><b>Images</b></h3>
 -->
 
 --- 
@@ -188,28 +188,28 @@ _and i just wanted to put some images of places i'd like to visit someday and th
                                                                      
 <hr>
 
-### <span style = " color : 004A0B" id = "Contact">Contact Me</span>
+### <b style = " color : 004A0B" id = "Contact">Contact Me</b>
 
-<!--- <h3 style = "color : "004A0B" id =  "contact">Contact Me</h3> --->
+<!--- <h3 style = "color : "004A0B" id =  "contact"><b>Contact Me</b></h3> --->
 
 *And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me*: <br>
 
 <!--- <p>And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me:</p> --->
 
-1. My Emails:
-   + kamyarmorad1381@gmail.com<br>
-   + kamyar_moradian@comp.iust.ac.ir<br>
+1. <span style = "color : 004A0B">My Emails:</span>
+   + <b style = "color : 004A0B">kamyarmorad1381@gmail.com</b><br>
+   + <b style = "color : 004A0B">kamyar_moradian@comp.iust.ac.ir</b><br>
    <br>
 2. [My Telegram Id](https://t.me/Kami_2002 "My telegram Id(click on it)")<br>
 
 <!---
 <ol>
-   <li>My Emails</li>
-   <ul>
-      <li>kamyarmorad1381@gmail.com</li>
-      <li>kamyar_moradian@comp.iust.ac.ir</li>
+   <li style = "color : 004A0B">My Emails</li>
+   <ul style = "color : 004A0B">
+      <li><b>kamyarmorad1381@gmail.com</b></li>
+      <li><b>kamyar_moradian@comp.iust.ac.ir</b></li>
    </ul>
-   <a href = "https://t.me/Kami_2002" title = "My telegram Id(click on it)"><li>My Telegram Id</li></a>
+   <a href = "https://t.me/Kami_2002" title = "My telegram Id(click on it :) )"><li>My Telegram Id</li></a>
 </ol>
 -->
 
