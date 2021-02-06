@@ -42,7 +42,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ---
 <img src = "./learning.jpg" alt = "Education" title = "Education">
 
-### <span style = " color : #004A0B ">Life and Education</span>
+### <b style = " color : #004A0B ">Life and Education</b>
 
 <!---
 <h3 style = " color : #3AAE08  ">Life and Education</h3> 
@@ -82,7 +82,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 ---
 
-### <span style = " color : #004A0B">Interests</span>
+### <b style = " color : #004A0B">Interests</b>
 
 <!---
 <h3 style = "color : #D2E704">Interests</h3>
@@ -99,7 +99,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 
 <img src = "./goals.jpg" alt = "Goal" title = "Goal">
 
-### <span style = " color : #004A0B">Goals</span>
+### <b style = " color : #004A0B">Goals</b>
 
 <!---
 <h3 style = "color : #2A9BFF">Goals</h3>
@@ -113,7 +113,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 <strong style = "color : #15005C">To sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
 
-### <span style = " color : #004A0B" id = "Images">Images</span>
+### <b style = " color : #004A0B" id = "Images">Images</b>
 
 <!---
 <h3 style = "color : #780012">Images</h3>
