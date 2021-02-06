@@ -130,6 +130,8 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 | <span style = "color : #850000">Tokyo</span>  | <span style = "color : #35008C">Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</span> |
 | <span style = "color : #850000">Prague</span> | <span style = "color : #35008C">I just love the urban fabric of this city.</span> |
 
+<hr>
+
 <!---
 <i>and i just added some images there of places that i'd like to visit someday.</i>
 <table>
@@ -197,8 +199,8 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 <!--- <p>And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me:</p> --->
 
 1. <span style = "color : 004A0B">My Emails:</span>
-   + <b style = "color : 004A0B">kamyarmorad1381@gmail.com</b><br>
-   + <b style = "color : 004A0B">kamyar_moradian@comp.iust.ac.ir</b><br>
+   + <b style = "color : 004A0B">kamyarmorad1381@gmail.com</b> <br>
+   + <b style = "color : 004A0B">kamyar_moradian@comp.iust.ac.ir</b> <br>
    <br>
 2. [My Telegram Id](https://t.me/Kami_2002 "My telegram Id(click on it)")<br>
 
