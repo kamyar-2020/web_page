@@ -125,10 +125,10 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 
 | <span style = "color : #15005C">Place</span>  | <span style = "color : #15005C">Reason</span> |
 | ------ | ----------- |
-| <span style = "color : #850000">Paris</span>  | Maybe the main reason i want to visit there someday is because of the culture of france. |
-| <span style = "color : #850000">London</span> | Because of the succer. you know, their premier league is just fabulous. |
-| <span style = "color : #850000">Tokyo</span>  | Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
-| <span style = "color : #850000">Prague</span> | I just love the urban fabric of this city. |
+| <span style = "color : #850000">Paris</span>  | <span style = "color : #007D51">Maybe the main reason i want to visit there someday is because of the culture of france.</span> |
+| <span style = "color : #850000">London</span> | <span style = "color : #007D51">Because of the succer. you know, their premier league is just fabulous.</span> |
+| <span style = "color : #850000">Tokyo</span>  | <span style = "color : #007D51">Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</span> |
+| <span style = "color : #850000">Prague</span> | <span style = "color : #007D51">I just love the urban fabric of this city.</span> |
 
 <!---
 <i>and i just added some images there of places that i'd like to visit someday.</i>
