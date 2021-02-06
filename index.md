@@ -108,7 +108,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 <p id = "Goals">
 Before i begin to start sharing my goals with you, i should tell you that you need to <b style = "color : #15005C">keep your goals as a secret to yourself</b> and hide it in the public so i'm going to talk about them in general.<br>
 First,i'd rather to shine with experience and skilles than the things you learn in university. I mean <b style = "color : #15005C">don't stick just to things you learn in the university</b> go and try and comprehend them by yourself.<br>
-Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past its better to say killing your time is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
+Second,if you want to be your targets be straight in your road,see yourself in next 5 years that you desire.Thinking about past, it's better to say killing your time, is one of the worst habit that can happen to anyone. so keep your mind in a specific way that makes you the best version of yourself.<br>
 however i told you it's better to keep your goals as secrest, but one of my goals which i prefer to say one of my <b style = "color : #15005C">dreams</b> is to go around the world and see how other places look like-images are in the image section.<br>
 <strong style = "color : #15005C">Sum up,the one can change you and makes you the real one is you because the one that know you is just you yourself so use other recommendation to shape a way to reach your goals as soon as its possible but be patient.</strong>
 </p>
@@ -125,10 +125,10 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 
 | <span style = "color : #15005C">Place</span>  | <span style = "color : #15005C">Reason</span> |
 | ------ | ----------- |
-| <span style = "color : #850000">Paris  | <span style = "color : #850000">Maybe the main reason i want to visit there someday is because of the culture of france. |
-| <span style = "color : #850000">London | <span style = "color : #850000">Because of the succer. you know, their premier league is just fabulous. |
-| <span style = "color : #850000">Tokyo  | <span style = "color : #850000">Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
-| <span style = "color : #850000">Prague | <span style = "color : #850000">I just love the urban fabric of this city. |
+| Paris  | Maybe the main reason i want to visit there someday is because of the culture of france. |
+| London | Because of the succer. you know, their premier league is just fabulous. |
+| Tokyo  | Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day. |
+| Prague | I just love the urban fabric of this city. |
 
 <!---
 <i>and i just added some images there of places that i'd like to visit someday.</i>
