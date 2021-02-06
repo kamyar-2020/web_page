@@ -45,7 +45,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B ">Life and Education</b>
 
 <!---
-<h3 style = " color : #3AAE08  ">Life and Education</h3> 
+<h3 style = " color : #004A0B  ">Life and Education</h3> 
 -->
 
 <p id = "Life and Education">
@@ -85,7 +85,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B">Interests</b>
 
 <!---
-<h3 style = "color : #D2E704">Interests</h3>
+<h3 style = "color : #004A0B">Interests</h3>
 -->
 
 <p id = "Interest">
@@ -102,7 +102,7 @@ if wanted to write this code fully in html syntax ten it would be like it
 ### <b style = " color : #004A0B">Goals</b>
 
 <!---
-<h3 style = "color : #2A9BFF">Goals</h3>
+<h3 style = "color : #004A0B">Goals</h3>
 -->
 
 <p id = "Goals">
@@ -116,7 +116,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 ### <b style = " color : #004A0B" id = "Images">Images</b>
 
 <!---
-<h3 style = "color : #780012">Images</h3>
+<h3 style = "color : #004A0B"">Images</h3>
 -->
 
 --- 
@@ -124,7 +124,7 @@ however i told you it's better to keep your goals as secrest, but one of my goal
 _and i just wanted to put some images of places i'd like to visit someday and the reason of choosing such places are in the table below._
 
 | <span style = "color : #15005C">Place</span>  | <span style = "color : #15005C">Reason</span> |
-| ------ | ----------- |
+| --------------------------------------------- | --------------------------------------------- |
 | <span style = "color : #850000">Paris</span>  | <span style = "color : #35008C">Maybe the main reason i want to visit there someday is because of the culture of france.</span> |
 | <span style = "color : #850000">London</span> | <span style = "color : #35008C">Because of the succer. you know, their premier league is just fabulous.</span> |
 | <span style = "color : #850000">Tokyo</span>  | <span style = "color : #35008C">Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</span> |
@@ -134,27 +134,27 @@ _and i just wanted to put some images of places i'd like to visit someday and th
 <i>and i just added some images there of places that i'd like to visit someday.</i>
 <table>
     <thead>
-        <tr>
+        <tr style = "color : #15005C">>
             <th>Place</th>
             <th>Reason</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Paris</td>
-            <td>Maybe the main reason i want to visit there someday is because of the culture of france.</td>
+            <td style = "color : #850000">>Paris</td>
+            <td <span style = "color : #35008C">>Maybe the main reason i want to visit there someday is because of the culture of france.</td>
         </tr>
         <tr>
-            <td>London</td>
-            <td>Because of the succer. you know, their premier league is just fabulous.</td>
+            <td style = "color : #850000">>London</td>
+            <td <span style = "color : #35008C">>Because of the succer. you know, their premier league is just fabulous.</td>
         </tr>
         <tr>
-            <td>Tokyo</td>
-            <td>Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</td>
+            <td style = "color : #850000">>Tokyo</td>
+            <td <span style = "color : #35008C">>Whole world knows that the center of technology is in japan so i'd like to visit this mega city one day.</td>
         </tr>
         <tr>
-            <td>Prague</td>
-            <td>I just love the urban fabric of this city.</td>
+            <td style = "color : #850000">>Prague</td>
+            <td <span style = "color : #35008C">>I just love the urban fabric of this city.</td>
         </tr>
     </tbody>
 </table>
@@ -188,9 +188,9 @@ _and i just wanted to put some images of places i'd like to visit someday and th
                                                                      
 <hr>
 
-### <span style = " color : #007B83" id = "Contact">Contact Me</span>
+### <span style = " color : 004A0B" id = "Contact">Contact Me</span>
 
-<!--- <h3 style = "color : "#007B83" id =  "contact">Contact Me</h3> --->
+<!--- <h3 style = "color : "004A0B" id =  "contact">Contact Me</h3> --->
 
 *And finally i want to put my emails and my telegram id here. and i'll be happy if you contact me*: <br>
 
